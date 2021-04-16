@@ -1,18 +1,12 @@
-//
-//  ViewController.swift
-//  GitHubTestAgain
-//
-//  Created by Nicholas Centers on 4/16/21.
-//  Copyright © 2021 Nicholas Centers. All rights reserved.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
-
+    var daniel = "talking in class"
+    var whoIsThat = "bruh moment"
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+    print(daniel)
+        print(whoIsThat)
     }
 
 
